@@ -1,12 +1,1 @@
-cd Desktop
-mkdir html
-touch html.txt
-git init 
-git remote add origin https://github.com/darknessinsideme/CommandLine.gitgit remote add origin
-git status 
-git add .
-git status 
-git commit -m "1week friday home work"
-git remote -v
-git push origin master
-
+GHG 
